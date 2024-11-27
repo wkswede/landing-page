@@ -1,0 +1,1 @@
+This is a sample landing page project to demo html/css coding.
